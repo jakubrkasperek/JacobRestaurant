@@ -1,0 +1,44 @@
+﻿@using JacobRestaurant.ViewModels
+@model LoginViewModel
+
+    <div class="col-11 mx-auto pt-0 p-0">
+        <div class="card">
+
+            <div class="card-header bg-success text-uppercase text-white" style="height:45px;">
+                <h4>Login page</h4>
+            </div>
+
+            <form asp-controller="Account" asp-action="Login" method="post" role="form">
+                <div asp-validation-summary="All"></div>
+
+                <div class="col-md-8 text-left p-3">
+                    <div class="form-group">
+                        <label asp-for="Email"></label>
+                        <div>
+                            <input asp-for="Email" />
+                            <span asp-validation-for="Email"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 text-left p-3">
+                    <div class="form-group">
+                        <label asp-for="Password"></label>
+                        <div>
+                            <input asp-for="Password" type="password" />
+                            <span asp-validation-for="Password"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class=" col-6 form-group text-left p-2">
+                        <input class="btn btn-primary" type="submit" value="Log in" />
+                    </div>
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+

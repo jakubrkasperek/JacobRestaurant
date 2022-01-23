@@ -1,0 +1,28 @@
+﻿@using JacobRestaurant.ViewModels
+@model DishListViewModel
+
+
+<div class="col-11 mx-auto pt-0 p-0">
+    <div>
+
+        <div class="card-header bg-success text-uppercase text-white" style="height:45px;">
+            <h4>Dishes</h4>
+        </div>
+
+        <div style="display: block; font-size:2rem">
+            <a class="btn btn-primary" asp-controller="Dish" asp-action="Create">Create new dish</a>
+        </div>
+
+        @foreach (var dish in Model.Dishes)
+        {
+    <div style="display: inline-block; background-color: #ffd800; margin: .5em; width: 25%; text-align: center;">
+        <a class="btn btn-primary" asp-controller="Dish" asp-action="Details" asp-route-id="@dish.DishId">
+            <div style="display: inline-block; ">
+                <img src="@dish.ImageUrl" width="300" height="300" />
+                <h2>@dish.Name</h2>
+                <h2>@dish.Price</h2>
+            </div>
+        </a>
+    </div>}
+    </div>
+</div>

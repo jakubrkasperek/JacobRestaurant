@@ -1,0 +1,24 @@
+﻿@model Reservation
+
+    <div class="col-11 mx-auto pt-0 p-0">
+        <div class="card">
+
+            <div class="card-header bg-success text-uppercase text-white" style="height:45px;">
+                <h4>Add reservation</h4>
+            </div>
+
+            <form asp-controller="Reservation" asp-action="Create" method="post">
+
+                <div>
+                    <label asp-for="@Model.ReservationDate">Date</label>
+                    <input asp-for="@Model.ReservationDate" type="date" />
+                    <span asp-validation-for="@Model.ReservationDate"></span>
+                </div>
+
+                <div class=" col-6 form-group text-left p-2">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+
+            </form>
+        </div>
+    </div>

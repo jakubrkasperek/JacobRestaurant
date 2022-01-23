@@ -1,0 +1,232 @@
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\appsettings.json
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.exe
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.deps.json
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.runtimeconfig.json
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.runtimeconfig.dev.json
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\ref\JacobRestaurant.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.Views.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.Views.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Humanizer.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.AssemblyReference.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.AssemblyInfoInputs.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.AssemblyInfo.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorAssemblyInfo.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorAssemblyInfo.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\scopedcss\bundle\JacobRestaurant.styles.css
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\staticwebassets\JacobRestaurant.StaticWebAssets.Manifest.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.TagHelpers.input.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.TagHelpers.output.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorCoreGenerate.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorTargetAssemblyInfo.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorTargetAssemblyInfo.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.Views.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.CopyComplete
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\ref\JacobRestaurant.dll
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.pdb
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.genruntimeconfig.cache
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Create.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Details.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\List.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Update.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Users\amede\Desktop\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Reservation\List.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\appsettings.json
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.exe
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.deps.json
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.runtimeconfig.json
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.runtimeconfig.dev.json
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\ref\JacobRestaurant.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.Views.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.Views.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Humanizer.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.AssemblyReference.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.AssemblyInfoInputs.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.AssemblyInfo.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorAssemblyInfo.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorAssemblyInfo.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\scopedcss\bundle\JacobRestaurant.styles.css
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\staticwebassets\JacobRestaurant.StaticWebAssets.Manifest.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.TagHelpers.input.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.TagHelpers.output.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorCoreGenerate.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Create.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Details.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\List.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Update.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Reservation\List.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorTargetAssemblyInfo.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorTargetAssemblyInfo.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.Views.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.CopyComplete
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\ref\JacobRestaurant.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.pdb
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.genruntimeconfig.cache
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\amede\Desktop\GitHub Repos\JacobProject\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\appsettings.json
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.exe
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.deps.json
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.runtimeconfig.json
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.runtimeconfig.dev.json
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\ref\JacobRestaurant.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.Views.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\JacobRestaurant.Views.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.AssemblyReference.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.AssemblyInfoInputs.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.AssemblyInfo.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorAssemblyInfo.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorAssemblyInfo.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\staticwebassets\JacobRestaurant.StaticWebAssets.Manifest.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\staticwebassets\JacobRestaurant.StaticWebAssets.xml
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\scopedcss\bundle\JacobRestaurant.styles.css
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.TagHelpers.input.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.TagHelpers.output.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorCoreGenerate.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Category\Create.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Category\List.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Create.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Details.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\List.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Dish\Update.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Reservation\Create.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Reservation\List.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorTargetAssemblyInfo.cache
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.RazorTargetAssemblyInfo.cs
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.Views.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.csproj.CopyComplete
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\ref\JacobRestaurant.dll
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.pdb
+C:\Users\Jakub Kasperek\Desktop\JacobProject-main\Jakub\JacobRestaurant\JacobRestaurant\obj\Debug\net5.0\JacobRestaurant.genruntimeconfig.cache

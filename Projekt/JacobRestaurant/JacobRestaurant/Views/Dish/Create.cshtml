@@ -1,0 +1,65 @@
+﻿@using JacobRestaurant.ViewModels
+@model UpdateDishViewModel
+
+
+    <div class="col-11 mx-auto pt-0 p-0">
+        <div class="card">
+            <div class="card-header bg-success text-uppercase text-white" style="height:45px;">
+                <h4>Create new dish</h4>
+            </div>
+
+            <form enctype="multipart/form-data" asp-controller="Dish" asp-action="Create" method="post">
+                <div class="row">
+
+                    <div class="col-md-8 text-left p-3">
+                        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="@Model.Dish.ImageUrl">Image Url</label>
+                            <input asp-for="@Model.Dish.ImageUrl" />
+                            <span asp-validation-for="@Model.Dish.ImageUrl"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8 text-left p-3">
+                        <div class="form-group">
+                            <label asp-for="@Model.Dish.Name">Name</label>
+                            <input asp-for="@Model.Dish.Name" />
+                            <span asp-validation-for="@Model.Dish.Name"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8 text-left p-3">
+                        <div class="form-group">
+                            <label asp-for="@Model.Dish.Description">Description</label>
+                            <input asp-for="@Model.Dish.Description" />
+                        </div>
+                    </div>
+
+                    <div class="col-md-8 text-left p-3">
+                        <div class="form-group">
+                            <label asp-for="@Model.Dish.CategoryId">Category Id</label>
+                            <select asp-for="@Model.Dish.CategoryId">
+                                @foreach (var category in Model.Categories)
+                                {
+                        <option value="@category.CategoryId"> @category.Name </option>}
+                            </select>
+                            <span asp-validation-for="@Model.Dish.CategoryId"></span>
+                        </div>
+                    </div>
+
+                    <div class="col-md-8 text-left p-3">
+                        <div class="form-group">
+                            <label asp-for="@Model.Dish.Price">Price</label>
+                            <input asp-for="@Model.Dish.Price" />
+                            <span asp-validation-for="@Model.Dish.Price"></span>
+                        </div>
+                    </div>
+
+                    <div class=" col-6 form-group text-left p-3">
+                        <input type="submit" value="Create" class="btn btn-primary" />
+                    </div>
+                </div>
+            </form>
+
+        </div>
+    </div>

@@ -1,0 +1,62 @@
+﻿@using JacobRestaurant.ViewModels
+@model RegisterViewModel
+
+
+    <div class="col-11 mx-auto pt-0 p-0">
+        <div class="card">
+
+            <div class="card-header bg-success text-uppercase text-white" style="height:45px;">
+                <h4>Register page</h4>
+            </div>
+            
+            <form asp-controller="Account" asp-action="Register" method="post" role="form">
+                <div asp-validation-summary="All"></div>
+
+                <div class="col-md-8 text-left p-3">
+                    <div class="form-group">
+                        <label asp-for="FirstName"></label>
+                        <div>
+                            <input asp-for="FirstName" />
+                            <span asp-validation-for="FirstName"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 text-left p-3">
+                    <div  class="form-group">
+                        <label asp-for="LastName"></label>
+                        <div>
+                            <input asp-for="LastName" />
+                            <span asp-validation-for="LastName"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 text-left p-3">
+                    <div  class="form-group">
+                        <label asp-for="Email"></label>
+                        <div>
+                            <input asp-for="Email" />
+                            <span asp-validation-for="Email"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-8 text-left p-3">
+                    <div  class="form-group">
+                        <label asp-for="Password"></label>
+                        <div>
+                            <input asp-for="Password" />
+                            <span asp-validation-for="Password"></span>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <div class=" col-6 form-group text-left p-2">
+                        <input class="btn btn-primary" type="submit" value="Register" />
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>

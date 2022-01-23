@@ -1,0 +1,25 @@
+﻿@model List<Reservation>
+
+
+<div class="col-11 mx-auto pt-0 p-0">
+    <div class="card">
+
+        <div class="card-header bg-success text-uppercase text-white" style="height:45px;">
+            <h4>Reservations</h4>
+        </div>
+
+
+        <div class="col-6 form-group text-left p-2">
+            <a class="btn btn-primary" asp-controller="Reservation" asp-action="Create">Add reservation</a>
+        </div>
+
+
+        @foreach (var reservation in Model)
+        {
+
+    <div class="col-6 form-group text-left p-2">
+        <h2>@reservation.ReservationDate</h2>
+        <a class="btn btn-primary" asp-controller="Reservation" asp-action="Delete" asp-route-id="@reservation.Id">Delete</a>
+    </div>}
+    </div>
+</div>
